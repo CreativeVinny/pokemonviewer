@@ -19,3 +19,6 @@ CodeSandbox: https://codesandbox.io/s/React
 Tutorial: https://reactjs.org/tutorial/tutorial.htmlUsing 
 Fetch: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_FetchPokéAPI 
 v2: https://pokeapi.co/docs/v2.html
+
+
+-> make it shine
