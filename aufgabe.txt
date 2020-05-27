@@ -1,0 +1,21 @@
+Frontend-Aufgabe: 
+Pokémon ViewerFrontend-Aufgabe: 
+Pokémon ViewerDeine Aufgabe ist es, einen einfachen Pokémon Viewer als App mit Master-Detail-Ansicht für die PokéAPI zuerstellen. 
+Für die Kommunikation mit der PokéAPI soll dieFetch API verwendet werden.
+
+1. In der Master-Liste sollen seitenweise je 50 Pokémon-Namen aufgelistet werden.
+2. Die Master-Liste soll über eine Paginierung (vor-/zurückblättern) verfügen.
+3. Buttons, die eine Server-Anfrage auslösen, müssen deaktiviert sein, solange eine Anfrage aussteht.
+4. Beim Klick auf einen Namen in der Master-Liste soll eine Detail-View gezeigt werden.
+5. Die Detail-View soll den Namen und eine Darstellung des Pokémon zeigen.
+6. Die App soll beim Wechsel zwischen Detail- und Master-Ansicht die aktuelle Seitennummer beibehalten.
+7. Falls beim Laden ein Fehler auftritt, soll die App eine Warnmeldung anzeigen.
+8. Die Warnmeldung soll beim nächsten Ladeversuch automatisch entfernt werden.
+9. Unnötige Server-Anfragen sollen durch einen Cache vermieden werden.
+10. Der Cache soll mit Hilfe der sessionStorage einen Page Refresh überstehen.
+
+
+CodeSandbox: https://codesandbox.io/s/React 
+Tutorial: https://reactjs.org/tutorial/tutorial.htmlUsing 
+Fetch: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_FetchPokéAPI 
+v2: https://pokeapi.co/docs/v2.html
